@@ -151,6 +151,22 @@ These values can be modified in the authentication logic if needed.
 
 ---
 
+## 📸 Screenshots
+
+Below are the main screens of the **Clinic Appointment Management System**.
+
+| Screen | Description | Preview |
+|--------|-------------|----------|
+| **Login Page** | Secure admin login interface. | ![Login](Screenshots/login.png) |
+| **Dashboard** | Overview of doctors, patients, and today's appointments. | ![Dashboard](Screenshots/dashboard.png) |
+| **Doctors Management** | Add, edit, delete doctor information. | ![Doctors](Screenshots/doctors.png) |
+| **Patients Management** | Register new patients and manage their records. | ![Patients](Screenshots/patients.png) |
+| **Appointments Management** | Schedule, view, and manage appointments. | ![Appointments](Screenshots/appointments.png) |
+
+---
+
+
+
 
 
 
