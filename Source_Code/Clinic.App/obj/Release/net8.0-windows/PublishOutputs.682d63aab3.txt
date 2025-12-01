@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\BIT ICT Project\Clinic.App.exe
+C:\Users\Lenovo\Desktop\BIT ICT Project\Clinic.App.dll
+C:\Users\Lenovo\Desktop\BIT ICT Project\Clinic.App.deps.json
+C:\Users\Lenovo\Desktop\BIT ICT Project\Clinic.App.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BIT ICT Project\Clinic.App.pdb
+C:\Users\Lenovo\Desktop\BIT ICT Project\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\BIT ICT Project\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\BIT ICT Project\Clinic.Domain.dll
+C:\Users\Lenovo\Desktop\BIT ICT Project\Clinic.Domain.pdb

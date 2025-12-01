@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\bin\Release\net8.0\Clinic.Domain.deps.json
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\bin\Release\net8.0\Clinic.Domain.dll
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\bin\Release\net8.0\Clinic.Domain.pdb
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\Clinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\Clinic.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\Clinic.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\Clinic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\Clinic.Domain.dll
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\refint\Clinic.Domain.dll
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\Clinic.Domain.pdb
+C:\Users\Lenovo\Desktop\BIT ICT Project\E2410780\Clinic.Domain\obj\Release\net8.0\ref\Clinic.Domain.dll
