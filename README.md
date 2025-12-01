@@ -1,4 +1,20 @@
-# 🏥 Clinic Appointment Management System (WPF, .NET 8)
+<h1 align="center">🏥 Clinic Appointment Management System</h1>
+
+<p align="center">
+  <b>WPF Desktop Application using .NET 8 & MVVM</b><br/>
+  Manage doctors, patients, and appointments with a clean, modern UI.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%20Desktop-informational?style=flat-square&logo=windows&logoColor=white&color=0078D6"/>
+  <img src="https://img.shields.io/badge/Framework-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-MVVM-2C3E50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+</p>
+
+---
+
+
 
 A **desktop-based clinic appointment management system** built using **C#, .NET 8, and WPF (MVVM)**.  
 This system allows a clinic admin to manage **doctors, patients, and appointments** with a clean dashboard UI.
@@ -54,6 +70,17 @@ This system allows a clinic admin to manage **doctors, patients, and appointment
 - **Architecture:** Layered (App, Domain, Infrastructure)
 - **Data Storage:** In-memory (services can later be redirected to a real database)
 - **Build Type:** Release | Any CPU
+
+### 🧾 Tech Stack Badges
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite%20(Planned)-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -225,6 +252,24 @@ This video covers:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/poojah-yogarasa)
 
 ⭐ **Don’t forget to star this repo if you like it!**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=poojahyogarasa&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=poojahyogarasa&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ---
 
