@@ -108,3 +108,55 @@ ClinicAppointmentSystem/
 │   └── (required DLLs & runtimes)
 │
 └── README.md
+
+````
+---
+## 🚀 How to Run (Source Code – Developer Mode)
+
+1. Open **Visual Studio 2022** (or any version that supports .NET 8).
+2. Click **Open a project or solution**.
+3. Navigate to: Source_Code/Clinic.App/Clinic.App.sln
+4. Wait for all NuGet packages to restore automatically.
+5. In Solution Explorer, right-click **Clinic.App** → select **Set as Startup Project** (if not already set).
+6. Click **Build → Rebuild Solution** to ensure everything compiles correctly.
+7. Press **F5** or click **Start (▶)** to run the application.
+8. The Clinic Appointment Dashboard will open.
+
+---
+## 🧪 How to Run (Publish Output – Without Visual Studio)
+
+This method is for examiners, lecturers, or users who want to run the application **without installing Visual Studio**.
+
+1. Open the folder: Publish_Output
+  
+2. Make sure the PC has **.NET 8 Desktop Runtime** installed.  
+(Download from: https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+4. Locate the executable file: Clinic.App.exe
+
+5. Double-click **Clinic.App.exe** to launch the desktop application.
+
+6. The system will open with the **Login screen**.
+
+---
+
+## 🔑 Login Details
+
+Use the following credentials to access the system:
+
+- **Username:** `admin`
+- **Password:** `1234`
+
+These values can be modified in the authentication logic if needed.
+
+---
+
+
+
+
+
+
+
+
+
+
