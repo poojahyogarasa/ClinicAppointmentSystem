@@ -215,7 +215,18 @@ This video covers:
 
 ---
 
+## 👩‍💻 Author
 
+**Poojah Yogarasa**  
+*Computer Engineering Undergraduate | BIT (UoM)*  
+*Passionate about WPF, .NET, AI & Real-world Software Projects*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/poojahyogarasa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojahyogarasa)
+
+⭐ **Don’t forget to star this repo if you like it!**
+
+---
 
 
 
