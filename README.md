@@ -200,7 +200,7 @@ These features can be added in future versions to improve functionality and user
 You can watch a full walkthrough of the **Clinic Appointment Management System** here:
 
 <p align="left">
-  <a href="[https://drive.google.com/file/d/your-video-id/view](https://drive.google.com/file/d/1U7G-JtXb3Bjk2i1Axd8M4RpL0Rflas30/view?usp=drive_link)" target="_blank">
+  <a href="https://drive.google.com/file/d/1U7G-JtXb3Bjk2i1Axd8M4RpL0Rflas30/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/▶️ Watch_Demo_Video-blue?style=for-the-badge" alt="Watch Demo Video"/>
   </a>
 </p>
