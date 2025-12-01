@@ -165,6 +165,55 @@ Below are the main screens of the **Clinic Appointment Management System**.
 
 ---
 
+## 🌱 Future Enhancements
+
+These features can be added in future versions to improve functionality and user experience:
+
+### 🔧 Functional Enhancements
+- Integrate a **real database** (SQLite, SQL Server, MySQL) instead of in-memory storage.
+- Add **role-based login** (Admin, Doctor, Receptionist).
+- Implement **search and filtering** for doctors, patients, and appointments.
+- Add **appointment conflict detection** with detailed validation.
+- Enable **email/SMS notifications** for upcoming appointments.
+
+### 🎨 UI / UX Improvements
+- Add dark mode support.
+- Improve styling with modern WPF components and animations.
+- Add loading indicators and toast notifications.
+
+### 📊 Reporting & Analytics
+- Generate downloadable **PDF / Excel reports** for daily appointments.
+- Add appointment statistics and charts.
+
+### 🛡 Security Enhancements
+- Encrypt user credentials.
+- Add authentication tokens for advanced security.
+
+### 🌐 Deployment
+- Provide auto-updating installer (ClickOnce / MSIX packaging).
+- Cloud-synced database for multiple-machine access.
+
+---
+
+## 🎥 Demonstration Video
+
+A complete demonstration of the **Clinic Appointment Management System** is available in the link below:
+
+🔗 **Watch Full Demo:** [https://drive.google.com/file/d/your-video-id/view](https://drive.google.com/file/d/1U7G-JtXb3Bjk2i1Axd8M4RpL0Rflas30/view?usp=sharing)
+
+This video covers:
+- Login authentication  
+- Dashboard overview  
+- Doctor management  
+- Patient management  
+- Appointment scheduling  
+- UI interactions and validations  
+
+---
+
+
+
+
 
 
 
