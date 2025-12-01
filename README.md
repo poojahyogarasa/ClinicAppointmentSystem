@@ -70,9 +70,6 @@ This system allows a clinic admin to manage **doctors, patients, and appointment
 - **Architecture:** Layered (App, Domain, Infrastructure)
 - **Data Storage:** In-memory (services can later be redirected to a real database)
 - **Build Type:** Release | Any CPU
-
-### 🧾 Tech Stack Badges
-
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -80,7 +77,6 @@ This system allows a clinic admin to manage **doctors, patients, and appointment
   <img src="https://img.shields.io/badge/MVVM-34495E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQLite%20(Planned)-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
 
 ---
 
@@ -255,14 +251,7 @@ This video covers:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=poojahyogarasa&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats"
-  />
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <img 
@@ -272,9 +261,7 @@ This video covers:
 </p>
 
 ---
-
-
-
+---
 
 
 
